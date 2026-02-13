@@ -329,8 +329,8 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/tecchy-medico.git
-cd tecchy-medico
+git clone https://github.com/PravasMohanty/Techhy-Medico.git
+cd Techhy-Medico
 
 # Create virtual environment
 python -m venv venv
