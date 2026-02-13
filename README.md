@@ -431,16 +431,6 @@ If you found this project helpful, please ⭐ star the repository!
 
 ---
 
-## 📸 Screenshots
-
-### Main Interface
-![Main Interface](docs/screenshots/main-interface.png)
-
-### Analysis Result
-![Analysis Result](docs/screenshots/analysis-result.png)
-
-### API Key Setup
-![API Setup](docs/screenshots/api-setup.png)
 
 ---
 
