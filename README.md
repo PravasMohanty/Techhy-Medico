@@ -248,9 +248,13 @@ Pillow>=10.0.0
    - If you don't have one, create it for free
 
 3. **Create API Key**
-   - Click "Get API Key" in the menu
-   - Click "Create API key in new project" (or select existing project)
-   - Wait a few seconds for generation
+   -  Sign in with Google
+   -  Click on Dashboard on the left side
+   -  Click "Create API Key"  
+   -  It will then ask for an imported project to select 
+   -  Create a new projet by clicking Create Project
+   -  Select your Project
+   -  Click "Create Key Button" 
 
 4. **Copy Your Key**
    - Your key will look like: `AIzaSyA...` (39 characters)
@@ -381,9 +385,9 @@ SOFTWARE.
 ### Getting Help
 
 - 📖 **Documentation**: Check this README
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/yourusername/tecchy-medico/issues)
-- 💬 **Questions**: [Start a discussion](https://github.com/yourusername/tecchy-medico/discussions)
-- 📧 **Email**: support@techymedico.com (if available)
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/PravasMohanty/Techhy-Medico/issues)
+- 💬 **Questions**: [Start a discussion](https://github.com/PravasMohanty/Techhy-Medico/discussions)
+- 📧 **Email**: pravasmohanty1000@gmail.com
 
 ### Common Issues
 
